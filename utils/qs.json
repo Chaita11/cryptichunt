@@ -1,0 +1,42 @@
+[
+  {
+    "level": "Level 1",
+    "point": "Points: 100",
+    "id": 1
+  },
+  {
+    "level": "Level 2",
+    "point": "Points: 200",
+    "id": 2
+  },
+  {
+    "level": "Level 3",
+    "point": "Points: 200",
+    "id": 3
+  },
+  {
+    "level": "Level 4",
+    "point": "Points: 200",
+    "id": 4
+  },
+  {
+    "level": "Level 5",
+    "point": "Points: 200",
+    "id": 5
+  },
+  {
+    "level": "Level 6",
+    "point": "Points: 200",
+    "id": 6
+  },
+  {
+    "level": "Level 7",
+    "point": "Points: 200",
+    "id": 7
+  },
+  {
+    "level": "Level 8",
+    "point": "Points: 200",
+    "id": 8
+  }
+]

@@ -1,3 +1,19 @@
-.containerRules{
-    padding: 15rem 0;
+.containerRules {
+  height: 100vh;
+  padding: 1rem;
+}
+
+.containerRule {
+  animation: up-down 1s ease-in-out;
+}
+
+@keyframes up-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
 }

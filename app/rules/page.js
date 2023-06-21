@@ -4,12 +4,12 @@ import "../rules/rules.scss";
 const Rules = () => {
   return (
     <main>
-      <div className="">
+      <div className="containerRule">
         <div className="flex justify-center items-center flex-col containerRules">
-          <h1 className="text-6xl font-bold">
+          <h1 className="text-6xl font-bold max-[1024px]:text-4xl text-center">
             Surprise?? <span className="text-span-title">Rules</span>
           </h1>
-          <div className="text-bs mt-4 flex flex-col gap-1">
+          <div className="text-base mt-4 flex flex-col gap-3 max-[1024px]:text-xs">
             <p>Hunt will span over 72 hours from 12:00 AM, 29 April 2023</p>
             <p>
               The participants have to try & solve a maximum number of stages to

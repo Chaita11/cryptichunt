@@ -5,10 +5,25 @@ const Navbar = () => {
     <main>
       <div className="nav">
         <div>
-          <Link href="/">Home</Link>
+          <Link href="/" className="Link">
+            Home
+          </Link>
         </div>
-        <Link href="/landing">Login</Link>
-        <Link href="/rules">Rules</Link>
+        <div>
+          <Link href="/login" className="Link">
+            Login
+          </Link>
+        </div>
+        <div>
+          <Link href="/register" className="Link">
+            Register
+          </Link>
+        </div>
+        <div>
+          <Link href="/rules" className="Link">
+            Rules
+          </Link>
+        </div>
       </div>
     </main>
   );
